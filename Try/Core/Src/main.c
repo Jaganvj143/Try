@@ -37,6 +37,7 @@
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 int variable = 19;
+//here i will intialize an usart3
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
