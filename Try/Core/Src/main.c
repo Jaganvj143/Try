@@ -36,7 +36,7 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-
+int variable = 19;
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
